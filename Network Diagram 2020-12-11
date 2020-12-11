@@ -1,0 +1,19 @@
+<mxfile modified="2020-12-11T18:00:14.125Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kkwo-mANdR2KAfBJFSJy" version="14.0.1" type="github">
+  <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flEqwkfqUpZErVBvF3Gs-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://vectorified.com/images/fortinet-icon-10.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="55" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flEqwkfqUpZErVBvF3Gs-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#ffffff;strokeColor=#10739e;strokeWidth=1;fillColor=#b1ddf0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="flEqwkfqUpZErVBvF3Gs-4" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101" y="230" width="78" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
